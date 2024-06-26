@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jashavant 
+- 👋 Hi, I’m @jashavant Singh
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning the Foundation of data science.
+- 🌱 I’m currently learning the Foundation of data science and ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
